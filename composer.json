@@ -1,0 +1,16 @@
+{
+    "name": "intram-paycfa/sdk-paycfa",
+    "type": "library",
+    "description": "Moyen de paiement paycfa server",
+    "keywords": ["payment","paycfa","sdk"],
+    "homepage": "http://suntech.tech/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Suntech Devs",
+            "email": "suntechdevs@gmail.com",
+            "homepage": "http://suntech.tech/",
+            "role": "Developer"
+        }
+    ],
+}
